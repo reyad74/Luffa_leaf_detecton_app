@@ -2,6 +2,12 @@
 
 A Flask-based web application for detecting luffa leaf diseases using a trained TensorFlow deep learning model.
 
+### Home Page
+![Home Page](home.png)
+
+### Disease Detection Result
+![Result Page](Result.png)
+
 ## Features
 - Upload leaf images (PNG, JPG, JPEG)
 - Predict 6 leaf disease classes
@@ -83,7 +89,7 @@ Luffa-Leaf-Detection-App/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-Your Name
+Md. Reyadul Islam Reyad
 
 ## Acknowledgments
 - TensorFlow/Keras documentation
