@@ -3,10 +3,10 @@
 A Flask-based web application for detecting luffa leaf diseases using a trained TensorFlow deep learning model.
 
 ### Home Page
-![Home Page](home.png)
+![Home Page](E:\Luffa_leaf_detecton_app\Luffa_leaf_detecton_app\home.png)
 
 ### Disease Detection Result
-![Result Page](Result.png)
+![Result Page](E:\Luffa_leaf_detecton_app\Luffa_leaf_detecton_app\Result.png)
 
 ## Features
 - Upload leaf images (PNG, JPG, JPEG)
